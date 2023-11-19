@@ -1,4 +1,4 @@
-# data_science_nordeus_challenge
+# Data Science Nordeus Challenge
 
 Welcome to my repository for the Nordeus Data Science Challenge. This project is an exploration into predicting league ranks using various machine learning models.
 
